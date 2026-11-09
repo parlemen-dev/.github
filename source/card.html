@@ -1,0 +1,32 @@
+<!doctype html>
+<html>
+<head>
+<meta charset="utf-8" />
+<style>
+  @font-face { font-family: B; src: url(assets/bricolage.ttf); font-weight: 200 800; }
+  * { box-sizing: border-box; margin: 0; }
+  body { background: transparent; font-family: B, sans-serif; }
+  .c { width: 420px; height: 470px; border-radius: 34px; overflow: hidden; position: relative; display: flex; flex-direction: column; color: #FFFAF3; box-shadow: inset -7px -9px 0 rgba(0,0,0,.12), inset 6px 7px 0 rgba(255,255,255,.22); }
+  .img { position: relative; height: 270px; }
+  .img img { position: absolute; inset: 0; width: 100%; height: 100%; object-fit: contain; }
+  .txt { padding: 22px 30px 30px; margin-top: auto; }
+  .no { font-size: 16px; opacity: .75; font-weight: 600; letter-spacing: .05em; }
+  h3 { font-size: 36px; font-weight: 800; letter-spacing: -0.02em; margin-top: 4px; }
+  p { margin-top: 8px; font-size: 19px; line-height: 1.35; opacity: .92; }
+</style>
+</head>
+<body>
+  <div class="c" id="card">
+    <div class="img"><img id="im" /></div>
+    <div class="txt"><div class="no" id="no"></div><h3 id="t"></h3><p id="d"></p></div>
+  </div>
+  <script>
+    const q = new URLSearchParams(location.search);
+    card.style.background = q.get("bg");
+    im.src = "assets/" + q.get("img");
+    no.textContent = q.get("no");
+    t.textContent = q.get("t");
+    d.textContent = q.get("d");
+  </script>
+</body>
+</html>
