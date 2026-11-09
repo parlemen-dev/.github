@@ -41,6 +41,40 @@
 
 <br />
 
+<p align="center">
+  <a href="https://zero.foruai.io/">
+    <img src="art/prod-zero.webp" alt="Zero by ForU AI: Pioneering Intent Finance" width="100%" />
+  </a>
+</p>
+
+<p align="center"><a href="https://zero.foruai.io/"><b>Zero</b></a> &nbsp;·&nbsp; Built for ForU AI. AI customer acquisition for Indonesian financial products: educate, qualify, match, route.</p>
+
+<br />
+
+### From the hackathon floor
+
+<table>
+  <tr>
+    <td width="33%" valign="top">
+      <img src="art/prod-kerb.webp" alt="KERB" width="100%" /><br />
+      <b>KERB</b> &nbsp;<sub>Robinhood Chain · Uniswap v4 hook</sub><br />
+      Stock-token swaps with a fee that follows market hours, so you stop paying weekend prices on a Tuesday.
+    </td>
+    <td width="33%" valign="top">
+      <a href="https://github.com/zexoverz/subfloor"><img src="art/prod-subfloor.webp" alt="SUBFLOOR" width="100%" /></a><br />
+      <b><a href="https://github.com/zexoverz/subfloor">SUBFLOOR</a></b> &nbsp;<sub>Base · ETHOnline · 1inch SwapVM</sub><br />
+      Let an AI agent trade your portfolio. Set one number and your money can never go below it.
+    </td>
+    <td width="33%" valign="top">
+      <a href="https://starraid.xyz"><img src="art/prod-starraid.webp" alt="Star Raid" width="100%" /></a><br />
+      <b><a href="https://starraid.xyz">Star Raid</a></b> &nbsp;<sub>Monad · Metropolis 2026</sub><br />
+      A co-op boss fight where verified holders buy out a token wall together in about a minute.
+    </td>
+  </tr>
+</table>
+
+<br />
+
 ## Rules of Session
 
 <p align="center">
