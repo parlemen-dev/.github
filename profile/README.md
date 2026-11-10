@@ -56,8 +56,8 @@
 <table>
   <tr>
     <td width="50%" valign="top">
-      <img src="art/prod-kerb.webp" alt="KERB" width="100%" /><br />
-      <b>KERB</b> &nbsp;<sub>Robinhood Chain · Uniswap v4 hook</sub><br />
+      <a href="https://arbitrum-singapore.hackquest.io/projects/KERB"><img src="art/prod-kerb.webp" alt="KERB" width="100%" /></a><br />
+      <b><a href="https://arbitrum-singapore.hackquest.io/projects/KERB">KERB</a></b> &nbsp;<sub>Robinhood Chain · Arbitrum Open House</sub><br />
       Stock-token swaps with a fee that follows market hours, so you stop paying weekend prices on a Tuesday.
     </td>
     <td width="50%" valign="top">
